@@ -1,0 +1,15 @@
+# Local server log
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Zip archives
+*.zip
+
+# PowerShell deploy script (has API key logic — not needed on server)
+# Keep it in git for reference though
+
+# Editor files
+.vscode/
